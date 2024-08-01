@@ -1,0 +1,2 @@
+{"UPS": "UPS10", "Status": "Warning"}
+
