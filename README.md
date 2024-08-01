@@ -1,3 +1,4 @@
 # Project
-# pip install dash
-# pip install paho-mqtt dash pandas
+install pip
+  - pip install dash
+  - pip install paho-mqtt dash pandas
